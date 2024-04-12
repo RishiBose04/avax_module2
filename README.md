@@ -26,7 +26,7 @@ git clone https://github.com/Spydiecy/Function-Frontend-Metacrafters.git
 (2) Install the required dependencies
 
 ```bash
-cd Function-Frontend-Metacrafters
+cd avax_module2
 npm i
 ```
 
@@ -34,13 +34,13 @@ npm i
  
 (4) In the second terminal type:
 ```bash
-cd Function-Frontend-Metacrafters
+cd avax_module2
 npx hardhat node
 ```
    
 (5) In the third terminal, type:
 ```bash
-cd Function-Frontend-Metacrafters
+cd avax_module2
 npx hardhat run --network localhost scripts/deploy.js.
 ```
   
